@@ -1,0 +1,2 @@
+def sendEmail(message):
+    pass

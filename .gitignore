@@ -1,0 +1,7 @@
+.history/
+.vscode/
+.idea/
+.DS_Store
+logs/
+tests/
+files/indexes/*
