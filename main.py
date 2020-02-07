@@ -1,5 +1,5 @@
 from datetime import datetime
-from constants import *
+from constants import ENABLE, LOGS_FOLDER_PATH, LOG_FILE_BASE_NAME, DATE_FORMAT, LOG_FILE_EXTENSION, INDEX_LOG_NAME, INDEX_LOG_NAME_PATH, WORD_LIST
 from actions import sendEmail
 
 error_found = False
